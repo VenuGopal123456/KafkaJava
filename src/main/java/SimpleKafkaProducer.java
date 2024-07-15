@@ -7,7 +7,7 @@ import java.util.Properties;
 public class SimpleKafkaProducer {
     public static void main(String[] args) {
 
-        System.out.println("Helooo 123789");
+        System.out.println("Helooo 123456789");
         String topicName = "test-topic";
 
         // Set Kafka producer properties
