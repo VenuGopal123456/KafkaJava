@@ -18,6 +18,7 @@ public class SimpleKafkaProducer {
 
         // Create Kafka producer
         Producer<String, String> producer = new KafkaProducer<>(props);
+        System.out.println("testing - sree");
 
         // Produce messages to the Kafka topic
         for (int i = 0; i < 10; i++) {
