@@ -9,6 +9,7 @@ public class SimpleKafkaProducer {
 
         System.out.println("Helooo 123456789");
         System.out.println("hieeeee");
+        System.out.println("ashokmax 2024");
         String topicName = "test-topic";
 
         // Set Kafka producer properties
